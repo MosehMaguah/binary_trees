@@ -31,7 +31,9 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 }
 
 /**
- * custom_binary_tree_height - This measures height of a binary tree from  * given node
+ * custom_binary_tree_height - This measures height of a
+ * binary tree from given node
+ *
  * @tree: The pointer to node of tree to measure
  * Return: The height of tree or -1 if NULL
  */
@@ -55,7 +57,9 @@ int custom_binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_size - This measures the size of a binary tree from a given * node
+ * binary_tree_size - This measures the size of a
+ * binary tree from a given node
+ *
  * @tree: The root node of tree to measure from
  * Return: The size of tree from a given node
  */
