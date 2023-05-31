@@ -55,7 +55,7 @@ int custom_binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_size - This measures the size of a binary tree from a given node
+ * binary_tree_size - This measures the size of a binary tree from a given * node
  * @tree: The root node of tree to measure from
  * Return: The size of tree from a given node
  */
